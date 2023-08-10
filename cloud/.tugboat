@@ -12,4 +12,4 @@ defaults:
   size: '512mb'
   ssh_key: ''
   private_networking: 'false'
-  backups_enabled: 'false'
+  backups_enabled: 'false' 

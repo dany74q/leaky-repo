@@ -4,3 +4,5 @@
 		<connection host="localhost" port="1521" server="localhost" database="orcl" url="jdbc:oracle:thin:@//localhost:1521/orcl" user="user" password="password"/>
 	</data-source>
 </data-sources> 
+ 
+ 

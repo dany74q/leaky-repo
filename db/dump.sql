@@ -40,3 +40,5 @@ INSERT INTO `users` (`user_id`, `username`, `password`, `flag`) VALUES
 (9, 'brooks80', '$2y$12$/jJGIYh9wizWMFIcu79TEucXzYtvRdn3YxUpGUKnoZT1B6Gv2taSm', 0),
 (10, 'morgan65', '$2y$12$kZ55ticjwXD9d/A5o3y8..fA7/1qycT2befZ4QrCjJCfrxk415gUy', 1);
  
+ 
+ 

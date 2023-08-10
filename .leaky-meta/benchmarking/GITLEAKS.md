@@ -50,3 +50,4 @@ cloud/.s3cfg                           | 0/3 | 0
 misc-keys/putty-example.ppk            | 0/2 | 0
 web/ruby/secrets.yml                   | 0/3 | 0
 web/django/settings.py                 | 0/1 | 0
+ 
