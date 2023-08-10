@@ -3,4 +3,4 @@
 *.txt -crlf
 
 # 2020
-*.txt text eol=lf
+*.txt text eol=lf 

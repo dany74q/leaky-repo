@@ -24,3 +24,4 @@ Changes to secrets:
 * Set redis pass in `web/var/www/.env`
 ## 1.0.0
 * Initial release version
+ 

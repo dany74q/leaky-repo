@@ -15,3 +15,4 @@ fi
 wget https://raw.githubusercontent.com/zricethezav/gitleaks/master/examples/leaky-repo.toml -O gitleaks-config.toml
 
 pip install detect-secrets truffleHog
+ 
