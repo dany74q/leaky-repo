@@ -7,4 +7,4 @@ IRC_PORT=6697
 # Informative
 IRC_NICK=nick
 # Risk
-IRC_PASS=irc_pass
+IRC_PASS=irc_pass 
